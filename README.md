@@ -14,8 +14,9 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 - Power BI, Excel
 - Google Analytics Certificate, IBM Data Analyst
 
-## Portfolio Projects
-- **Analyse AdventureWorks**: Analyse des clients pour optimiser la stratégie commerciale. [View Project](#)
 
 ## CV
 [Télécharger mon CV en PDF](CV_SLANG.pdf)
+
+
+## Certificats
