@@ -18,4 +18,4 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 - **Analyse AdventureWorks**: Analyse des clients pour optimiser la stratégie commerciale. [View Project](#)
 
 ## CV
-[Download my CV in PDF](portfolio_SLANG.pdf)
+[Télécharger mon CV en PDF](CV_SLANG.pdf)
