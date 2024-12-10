@@ -19,4 +19,25 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 [Télécharger mon CV en PDF](CV_SLANG.pdf)
 
 
+# Table des Matières
+
+## [A propos](#a-propos)
+
+## [Portfolio](#portfolio)
+### SQL
+- [AdventureWorks : Analyse des segments clients](#adventureworks-analyse-des-segments-clients)
+
+### PowerBI
+- [AdventureWorks : Visualisation d'analyse des segments clients](#adventureworks-visualisation-d-analyse-des-segments-clients)
+
+### Excel
+- [AdventureWorks : Préparation et Nettoyage de données](#adventureworks-preparation-et-nettoyage-des-donnees)
+
+### [Portfolio PDF](portfolio_SLANG.pdf)
+
 ## Certificats
+- [IBM Data Analyst Certificate](IBM_Certificate1.pdf)
+- [Google Analytics Certificate](Google_Certificate.pdf)
+- [INSIDE LVMH Certificate](INSIDELVMH.pdf)
+
+## [Contact](#contact)
