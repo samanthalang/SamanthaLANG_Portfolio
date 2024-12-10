@@ -25,7 +25,7 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 - [AdventureWorks : Analyse des segments clients](https://github.com/samanthalang/projet1/blob/main/projet/data/SQL/adventureworks_segment_clients.sql)
 
 ### PowerBI
-- [AdventureWorks : Visualisation d'analyse des segments clients](https://github.com/samanthalang/projet1/blob/main/PowerBI/adventureworks_segment_clients.pbix)
+- [AdventureWorks : Visualisation d'analyse des segments clients](https://github.com/samanthalang/projet1/blob/main/projet/data/PowerBI/adventureworks_segment_clients.pbix)
 
 Le fichier est directement téléchargeable via le lien ci-dessus. Une capture d'écran est mise à disposition pour une visualisation rapide.
 
