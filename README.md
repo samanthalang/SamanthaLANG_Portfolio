@@ -12,7 +12,6 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 - SQL (PostgreSQL, MySQL, BigQuery)
 - Python (pandas, matplotlib)
 - Power BI, Excel
-- Google Analytics Certificate, IBM Data Analyst
 
 
 ## CV
@@ -20,8 +19,6 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 
 
 # Table des Matières
-
-## [A propos](#a-propos)
 
 ## [Portfolio](#portfolio)
 ### SQL
