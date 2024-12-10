@@ -15,7 +15,7 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 
 
 ## CV
-[Télécharger mon CV en PDF](CV_SLANG.pdf)
+[Télécharger mon CV en PDF](projet/assets/CV_SLANG.pdf)
 
 
 # Table des Matières
@@ -34,9 +34,9 @@ Aperçu : [Tableau de bord PowerBI](https://github.com/samanthalang/projet1/blob
 ### [Portfolio PDF](portfolio_SLANG.pdf)
 
 ## Certificats
-- [IBM Data Analyst Certificate](IBM_Certificate1.pdf)
-- [Google Analytics Certificate](Google_Certificate.pdf)
-- [INSIDE LVMH Certificate](INSIDELVMH.pdf)
+- [IBM Data Analyst Certificate](projet/assets/IBM_Certificate1.pdf)
+- [Google Analytics Certificate](projet/assets/Google_Certificate.pdf)
+- [INSIDE LVMH Certificate](projet/assets/INSIDELVMH.pdf)
 
 ## Contact
 
