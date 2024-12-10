@@ -20,9 +20,9 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 
 # Table des Matières
 
-## [Portfolio](#portfolio)
+## Portfolio
 ### SQL
-- [AdventureWorks : Analyse des segments clients](#adventureworks-analyse-des-segments-clients)
+- [AdventureWorks : Analyse des segments clients](https://github.com/samanthalang/projet1/blob/main/SQL/adventureworks_segment_clients.sql)
 
 ### PowerBI
 - [AdventureWorks : Visualisation d'analyse des segments clients](#adventureworks-visualisation-d-analyse-des-segments-clients)
