@@ -4,9 +4,83 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1rem 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        main {
+            padding: 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 1rem 0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1rem 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
-    <h1>Bienvenue sur mon portfolio !</h1>
-    <p>Ce site est hébergé avec GitHub Pages.</p>
+    <header>
+        <h1>Bienvenue sur mon Portfolio</h1>
+    </header>
+    <main>
+        <section>
+            <h2>À propos</h2>
+            <p>Je suis Samantha, une analyste de données passionnée par la Data Science, l'analyse SQL et les outils comme Power BI et Tableau. Voici mes projets :</p>
+        </section>
+        <section>
+            <h2>Mes Projets</h2>
+            <ul>
+                <li><a href="projet/data/SQL/Analyse_segments_clients.sql" target="_blank">Analyse SQL : Segments Clients</a></li>
+                <li><a href="projet/data/PowerBI/adventureworks_segment_clients.pbix" target="_blank">Tableau de bord Power BI : Segments Clients</a></li>
+                <li><a href="projet/assets/CV_SLANG.pdf" target="_blank">Télécharger mon CV</a></li>
+                <li><a href="projet/assets/portfolio_SLANG.pdf" target="_blank">Télécharger mon Portfolio PDF</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Certificats</h2>
+            <ul>
+                <li><a href="projet/assets/Google_Certificate.pdf" target="_blank">Google Analytics Certificate</a></li>
+                <li><a href="projet/assets/IBM_Certificate1.pdf" target="_blank">IBM Data Analyst Certificate</a></li>
+                <li><a href="projet/assets/INSIDELVMH.pdf" target="_blank">Inside LVMH Certificate</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Contactez-moi : <a href="mailto:samantha.lang@example.com">samantha.lang@example.com</a></p>
+        <p>Retrouvez-moi sur <a href="https://www.linkedin.com/in/samantha-lang/" target="_blank">LinkedIn</a></p>
+    </footer>
 </body>
 </html>
