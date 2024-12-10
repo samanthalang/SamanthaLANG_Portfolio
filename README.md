@@ -6,6 +6,8 @@ Bonjour ! Je m'appelle Samantha, j'ai découvert le data-driven marketing durant
 
 Grande curieuse et à l'aise avec tout ce qui est lié à l'informatique, j'aime apprendre de nouveaux concepts. C'est pour cela que je crée ce GitHub (notamment pour apprendre à en créer un à la perfection) afin de vous présenter mes projets.
 
+Grâce à mes précédentes expériences, j’ai la chance d’avoir une vision enrichie et complémentaire au domaine de la data : celle d’une analyste dotée de la sensibilité d’une consommatrice et de la stratégie d’une marketeuse. Mon objectif est d’allier données et intuition pour vous aider à prendre des décisions impactantes.
+
 Ce repository a pour but de montrer mes compétences analytiques mais surtout ma détermination à m'engager dans la voie de data analyste.
 
 ## Compétences techniques :
