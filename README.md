@@ -38,7 +38,7 @@ Aperçu : [Tableau de bord PowerBI](https://github.com/samanthalang/projet1/blob
 - [Google Analytics Certificate](Google_Certificate.pdf)
 - [INSIDE LVMH Certificate](INSIDELVMH.pdf)
 
-## [Contact](#contact)
+## Contact
 
 - **Email** : [samantha.lang0905@gmail.com](mailto:samantha.lang0905@gmail.com)
 - **LinkedIn** : [Samantha Lang](https://www.linkedin.com/in/samantha-lang-a265091b9/)
