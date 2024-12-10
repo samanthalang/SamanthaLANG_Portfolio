@@ -5,77 +5,155 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Portfolio</title>
     <style>
+        /* Styles généraux */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            text-align: center;
+            background-color: #f9f9f9;
         }
         header {
-            background-color: #333;
+            background-color: #007BFF;
             color: white;
-            padding: 1rem 0;
+            text-align: center;
+            padding: 50px 20px;
         }
-        h1 {
+        header h1 {
             margin: 0;
+            font-size: 3rem;
+        }
+        header p {
+            font-size: 1.2rem;
         }
         main {
-            padding: 2rem;
+            padding: 20px;
         }
         section {
-            margin-bottom: 2rem;
+            margin-bottom: 40px;
         }
-        ul {
-            list-style-type: none;
-            padding: 0;
+        h2 {
+            text-align: center;
+            color: #333;
         }
-        li {
-            margin: 1rem 0;
+        /* Styles pour les cartes */
+        .cards {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
         }
-        a {
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px;
+            background-color: white;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .card h3 {
+            margin: 0;
+            color: #007BFF;
+        }
+        .card p {
+            font-size: 0.9rem;
+            color: #555;
+        }
+        .card a {
+            display: inline-block;
+            margin-top: 10px;
             color: #007BFF;
             text-decoration: none;
             font-weight: bold;
         }
-        a:hover {
+        .card a:hover {
             text-decoration: underline;
         }
+        /* Footer */
         footer {
             background-color: #333;
             color: white;
-            padding: 1rem 0;
-            position: relative;
-            bottom: 0;
-            width: 100%;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        footer a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <header>
         <h1>Bienvenue sur mon Portfolio</h1>
+        <p>Je m'appelle Samantha Lang, analyste de données passionnée par la Data Science, SQL et les outils de visualisation.</p>
     </header>
     <main>
+        <!-- Section À propos -->
         <section>
             <h2>À propos</h2>
-            <p>Je suis Samantha, une analyste de données passionnée par la Data Science, l'analyse SQL et les outils comme Power BI et Tableau. Voici mes projets :</p>
+            <p style="text-align: center;">Je suis spécialisée en analyse de données, SQL et visualisation avec Power BI et Tableau. Explorez mes projets !</p>
         </section>
+
+        <!-- Section Projets -->
         <section>
             <h2>Mes Projets</h2>
-            <ul>
-                <li><a href="projet/data/SQL/adventureworks_segment_clients.sql" target="_blank">Analyse SQL : Segments Clients</a></li>
-                <li><a href="projet/data/PowerBI/adventureworks_segment_clients.pbix" target="_blank">Tableau de bord Power BI : Segments Clients</a></li>
-                <li><a href="projet/assets/CV_SLANG.pdf" target="_blank">Télécharger mon CV</a></li>
-                <li><a href="projet/assets/portfolio_SLANG.pdf" target="_blank">Télécharger mon Portfolio PDF</a></li>
-            </ul>
+            <div class="cards">
+                <!-- Projet SQL -->
+                <div class="card">
+                    <h3>Analyse SQL</h3>
+                    <p>Analyse des segments clients avec AdventureWorks.</p>
+                    <a href="projet/data/SQL/Analyse_segments_clients.sql" target="_blank">Voir le projet</a>
+                </div>
+                <!-- Projet Power BI -->
+                <div class="card">
+                    <h3>Tableau de bord Power BI</h3>
+                    <p>Visualisation des segments clients.</p>
+                    <a href="/projet/data/PowerBI/adventureworks_segment_clients.pbix" target="_blank">Voir le projet</a>
+                </div>
+                <!-- CV -->
+                <div class="card">
+                    <h3>Mon CV</h3>
+                    <p>Téléchargez mon CV en PDF.</p>
+                    <a href="projet/assets/CV_SLANG.pdf" target="_blank">Télécharger</a>
+                </div>
+            </div>
         </section>
+
+        <!-- Section Compétences -->
+        <section>
+            <h2>Compétences</h2>
+            <div style="text-align: center;">
+                <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+                <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+                <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+                <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+            </div>
+        </section>
+
+        <!-- Section Certificats -->
         <section>
             <h2>Certificats</h2>
-            <ul>
-                <li><a href="projet/assets/Google_Certificate.pdf" target="_blank">Google Analytics Certificate</a></li>
-                <li><a href="projet/assets/IBM_Certificate1.pdf" target="_blank">IBM Data Analyst Certificate</a></li>
-                <li><a href="projet/assets/INSIDELVMH.pdf" target="_blank">Inside LVMH Certificate</a></li>
-            </ul>
+            <div class="cards">
+                <div class="card">
+                    <h3>Google Analytics</h3>
+                    <p>Certificat officiel.</p>
+                    <a href="projet/assets/Google_Certificate.pdf" target="_blank">Télécharger</a>
+                </div>
+                <div class="card">
+                    <h3>IBM Data Analyst</h3>
+                    <p>Certificat officiel.</p>
+                    <a href="projet/assets/IBM_Certificate1.pdf" target="_blank">Télécharger</a>
+                </div>
+                <div class="card">
+                    <h3>Inside LVMH</h3>
+                    <p>Certificat officiel.</p>
+                    <a href="projet/assets/INSIDELVMH.pdf" target="_blank">Télécharger</a>
+                </div>
+            </div>
         </section>
     </main>
     <footer>
