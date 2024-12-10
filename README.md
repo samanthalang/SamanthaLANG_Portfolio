@@ -29,9 +29,9 @@ Ce repository a pour but de montrer mes compétences analytiques mais surtout ma
 
 Le fichier est directement téléchargeable via le lien ci-dessus. Une capture d'écran est mise à disposition pour une visualisation rapide.
 
-Aperçu : [Tableau de bord PowerBI](https://github.com/samanthalang/projet1/blob/main/Images/adventureworks.png)
+Aperçu : [Tableau de bord PowerBI](https://github.com/samanthalang/projet1/blob/main/projet/assets/Images/adventureworks.png)
 
-### [Portfolio PDF](portfolio_SLANG.pdf)
+### [Portfolio PDF](projet/assets/portfolio_SLANG.pdf)
 
 ## Certificats
 - [IBM Data Analyst Certificate](projet/assets/IBM_Certificate1.pdf)
